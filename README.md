@@ -1,10 +1,10 @@
            MMM.           .MMM
            MMMMMMMMMMMMMMMMMMM
-           MMMMMMMMMMMMMMMMMMM      ___________________________________
-          MMMMMMMMMMMMMMMMMMMMM    |                                   |
-         MMMMMMMMMMMMMMMMMMMMMMM   | Avoid administrative distraction. |
-        MMMMMMMMMMMMMMMMMMMMMMMM   |_   _______________________________|
-        MMMM::- -:::::::- -::MMMM    |/
+           MMMMMMMMMMMMMMMMMMM     
+          MMMMMMMMMMMMMMMMMMMMM    
+         MMMMMMMMMMMMMMMMMMMMMMM   
+        MMMMMMMMMMMMMMMMMMMMMMMM   
+        MMMM::- -:::::::- -::MMMM    
          MM~:~   ~:::::~   ~:~MM
     .. MMMMM::. .:::+:::. .::MMMMM ..
           .MM::::: ._. :::::MM.
